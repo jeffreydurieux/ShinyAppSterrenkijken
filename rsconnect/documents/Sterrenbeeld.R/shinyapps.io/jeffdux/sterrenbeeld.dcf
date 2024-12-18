@@ -1,0 +1,12 @@
+name: sterrenbeeld
+title: sterrenbeeld
+username: jeffdux
+account: jeffdux
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13611422
+bundleId: 9533658
+url: https://jeffdux.shinyapps.io/sterrenbeeld/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
